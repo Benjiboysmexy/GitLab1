@@ -1,0 +1,1 @@
+new line to the second file (through the cloned file) 
